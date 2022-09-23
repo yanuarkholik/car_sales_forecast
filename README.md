@@ -1,5 +1,3 @@
-# Car Sales Forecast
-
 ## Hasil peramalan
 | RMSE  | MAE | R2 |
 | ------------- | ------------- | ------------- |
